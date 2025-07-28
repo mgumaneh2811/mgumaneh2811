@@ -1,3 +1,8 @@
+<h2 align="center">
+  Hey there, I am Mahamadou 👋🏿   
+</h1>
+
+
 ## Hi there 👋
 
 🔭 I’m currently working on ...
