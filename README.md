@@ -2,7 +2,7 @@
   Hey there, I am Mahamadou 👋🏿   
 </h1>
 
-<div id="header align="center">
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/3o7aD2saq1j6b4d5iY/giphy.gif" width="300"/>
 </div>
 
