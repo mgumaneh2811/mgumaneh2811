@@ -1,5 +1,5 @@
 <h2 align="center">
-  Hey there, I am Mahamadou 👋🏿   
+  Hi, I am Mahamadou 👋🏿   
 </h1>
 
 <div id="header" align="center">
